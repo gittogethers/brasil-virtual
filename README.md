@@ -22,7 +22,7 @@ Jun 6 | Inteligência Artificial em Foco: O Impacto no Mundo Dev | https://www.m
 
 **Quer participar?**
 
-1. Explore os próximos [eventos](https://www.meetup.com/gittogether-latam).
+1. Explore os próximos [eventos](https://www.meetup.com/gittogether-brasil).
 2. Registre-se através dos links de registro fornecidos.
 
 **Tem comentários, quer sugerir um tópico ou contribuir de outras formas?**
